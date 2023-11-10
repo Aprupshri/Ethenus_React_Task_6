@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ethenus_React_Task_6/static/css/main.223a8890.css",
+    "main.js": "/Ethenus_React_Task_6/static/js/main.55f724c0.js",
+    "index.html": "/Ethenus_React_Task_6/index.html",
+    "main.223a8890.css.map": "/Ethenus_React_Task_6/static/css/main.223a8890.css.map",
+    "main.55f724c0.js.map": "/Ethenus_React_Task_6/static/js/main.55f724c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.223a8890.css",
+    "static/js/main.55f724c0.js"
+  ]
+}
